@@ -1,6 +1,6 @@
 <?php
 
-class Gallery extends MY_Controller {
+class Gallery extends Application {
 
     /**
      * Index Page for this controller.

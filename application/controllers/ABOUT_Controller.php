@@ -1,6 +1,6 @@
 <?php
 
-class About extends MY_Controller {
+class About extends Application {
 
     /**
      * Index Page for this controller.
