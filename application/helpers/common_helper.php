@@ -68,6 +68,5 @@ function build_menu_bar($choices)
     return $result;
 }
 
-$autoload['helper'] = array('common', 'url', 'parser');
 /* End of file common_helper.php */
 /* Location: application/helpers/common_helper.php */
