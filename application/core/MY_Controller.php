@@ -18,7 +18,7 @@ class Application extends CI_Controller {
     {
 	parent::__construct();
 	$this->data = array();
-	$this->data['page title'] = 'Sample Image Gallery';
+	$this->data['pagetitle'] = 'Sample Image Gallery';
     }
     /**
      * Render this page

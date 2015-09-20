@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>{page title}</title>
+        <title>{pagetitle}</title>
         <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"/>
         <link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
         <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
@@ -14,9 +14,9 @@
                 <span class="myhead">Simple Image Gallery</span>
                 <span class="mynav">
                     <ul>
-                        <li><a href="public/index.html">Home</a></li>
-                        <li><a href="public/gallery.html">Gallery</a></li>
-                        <li><a href="public/about.html">About</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/gallery">Gallery</a></li>
+                        <li><a href="/about">About</a></li>
                     </ul>
                 </span>
             </div>
